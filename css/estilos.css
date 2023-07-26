@@ -1,0 +1,61 @@
+/*Arquivo com estilização de componentes*/
+main {
+    min-height: 500px;
+}
+
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    font-weight: bold;
+    padding: 10px;
+}
+
+footer ul {
+    width: 100%;
+}
+.bigmenu .menuitem{
+    text-decoration: none;
+    margin: 50px 50px 0px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}  
+
+#sections {
+    text-align: center;
+}
+
+#sections img {
+    height: 300px;
+    width: 250px;
+    border-radius: 10px;
+    align-self: center;
+}
+
+#sections .card {
+    margin: 5px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+#sections .preco {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;  
+}
+
+#section-menu {
+    background-color: blue;
+    text-align: center;
+}
+
+#voltar-topo {
+    position: fixed;
+    bottom: 5px;
+    left: 10px;
+}
+
